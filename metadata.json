@@ -1,0 +1,5 @@
+{
+  "name": "Hayagriva: AI ppt & Document Generator",
+  "description": "A web-based application that allows users to generate professional PowerPoint presentations and Microsoft Word documents using the Google Gemini API. The app features a clean, minimalist design for an intuitive user experience.",
+  "requestFramePermissions": []
+}
